@@ -1,7 +1,7 @@
 <div align="center">
 
 # ASTR-O
-## Aerosapce Systems Traceability & Observability
+## Aerospace Systems Traceability & Observability
 **Know exactly why your RAG pipeline failed — and prove it.**
 
 Causal attribution and cryptographically signed audit reports for LLM pipelines in safety-critical systems.
